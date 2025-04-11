@@ -5,7 +5,7 @@
 - 📫 How to reach me via email at priyadharshini107@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/priyadharshini-thangaraj-a3a63a351.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love experimenting with new web design trends and making websites more user-friendly!
-![LeetCode Stats](https://leetcard.jacoblin.cool/Priyadharshini_107?theme=dark&font=Arapey&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Priyadharshini_107?theme=forest&font=Roboto&ext=contest)
 
 
 <!---
