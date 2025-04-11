@@ -12,7 +12,9 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-[LeetCode Stats](https://leetcard.jacoblin.cool/Priyadharshini_107?theme=forest&font=Roboto&ext=contest)
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Priyadharshini_107?theme=forest&font=Roboto&ext=contest)
 <!---
 Priyadharshini1076/Priyadharshini1076 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
